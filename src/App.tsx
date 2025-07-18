@@ -10,11 +10,11 @@ function App() {
   return (
     <>
       <Dither
-        waveColor={[0.5, 0.5, 0.5]}
+        waveColor={[0.3, 0.3, 0.3]}
         disableAnimation={false}
         enableMouseInteraction={true}
         mouseRadius={0.3}
-        colorNum={4}
+        colorNum={16}
         waveAmplitude={0.3}
         waveFrequency={3}
         waveSpeed={0.05}
