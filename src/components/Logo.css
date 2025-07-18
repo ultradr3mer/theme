@@ -1,0 +1,10 @@
+/* Logo.css */
+.logo-container {
+  /* your existing centering, padding, background, etc. */
+}
+
+.logo-text {
+  font-family: 'Cambria Math', Cambria, serif;
+  font-size: 8rem; /* or whatever size you want */
+  color: white;
+}
